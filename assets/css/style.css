@@ -1,3 +1,147 @@
-h1{
-    color: red;
+/* 51,1 */
+/* #elem{
+    width: 200px;
+    height: 200px;
+    color: white;
+    background-color: rgba(38, 38, 216, 0.842); /*цвет фона*/
+
+/* 51,2 */
+    /*  
+
+#elem{
+    width: 300px;
+    height: 200px;
+    color: white;
+    background-color: rgb(105, 233, 105); /*цвет фона*/
+  /*text-align: center;*/
+
+  /* zavdanya52,1 */
+ /* #elem {
+	border-width: 4px;    
+	border-style: solid;  
+	border-color: blue;    
+	width: 250px;
+	height: 200px;
+} */
+/* #elem {
+	border-width: 4px;
+	border-style: dotted;
+	border-color: red;
+	width: 250px;
+	height: 150px;
+    <!--zavdanya52,2-->
+} */
+/* #elem{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: orange;
+    width: 300px;
+    height: 200px;
+<!--zavdanya52,3-->
+} */
+/* #elem {
+	border-width: 6px;
+	border-style: double;
+	border-color: blue;
+	width: 250px;
+	height: 150px;
+    <!--zavdanya52,4-->
+} */
+/* #elem {
+	border: 1px solid red;
+	width: 300px;
+	height: 200px;
+ <!--zavdanya53,1-->
+} */
+/* #elem {
+	border: 2px dotted blue;
+	width: 300px;
+	height: 200px;
+    <!--zavdanya53,2-->
+} */
+/* #elem {
+	border: 3px dashed green;
+	width: 200px;
+	height: 150px;
+    <!--zavdanya53,3-->
+} */
+/* #elem {
+	border: 4px double orange;
+	width: 250px;
+	height: 150px;
+    <!--zavdanya53,4-->
+} */
+/* #elem{
+    width: 300px;
+    height: 200px;
+    border-right: 2px ridge green;
+    border-left: 2px ridge orange;
+    border-top: 2px ridge blue;
+    border-bottom: 2px ridge red;
+     <!--zavdanya54,1-->
+} */
+/* #elem{
+    width: 300px;
+    height: 200px;
+    border-right: 3px dotted green;
+    border-left: 4px solid red;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    <!--zavdanya54,2-->
+} */
+/* #elem {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 15px;
+    <!--zavdanya55,1-->
+} */
+/* #elem {
+	border-radius: 20px;
+	width: 200px;
+	height: 200px;
+	background-color: rgb(120, 238, 120);
+     <!--zavdanya55,2-->
+} */
+/* #elem {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border: 1px solid green;
+     <!--zavdanya55,3-->
+} */
+/* #elem{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 20px 30px 40px 60px;
+      <!--zavdanya56,1-->
+} */
+/* #elem{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 20px 30px 10px 30px;
+    <!--zavdanya56,2-->
+} */
+/* #elem{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px 20px 30px;
+    <!--zavdanya56,3-->
+} */
+/* #elem{
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 50%;
+       <!--zavdanya57,1-->
+} */
+#elem {
+	background-image: url("img/bg.png");
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 300px;
+	border: 3px solid black;
 }
